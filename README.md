@@ -32,6 +32,6 @@ Analysis Performed
 Key Insights
 - Delhi generated the highest revenue
 - Italian category generated the highest sales
-- Rahul is the top customer by revenue
+- Rahul was the top customer by revenue
 - Pizza Point had the highest revenue
 - On the day 05 Jun, 2025 had the highest revenue
